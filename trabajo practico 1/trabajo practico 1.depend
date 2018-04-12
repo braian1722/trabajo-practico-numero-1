@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523575705 source:c:\users\ivan\desktop\trabajo practico numero 1\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1523574642 source:c:\users\ivan\desktop\trabajo practico numero 1\trabajo practico 1\calculadora.c
+	"calculadora.h"
+
+1523575870 c:\users\ivan\desktop\trabajo practico numero 1\trabajo practico 1\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+
